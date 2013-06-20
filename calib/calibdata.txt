@@ -1,0 +1,7 @@
+image/chess1.jpg
+image/chess2.jpg
+image/chess3.jpg
+image/chess4.jpg
+image/chess5.jpg
+image/chess6.jpg
+image/chess7.jpg

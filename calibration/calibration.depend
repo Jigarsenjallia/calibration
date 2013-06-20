@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1357144360 source:f:\codeblocks programming\calibration\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cxcore.h>
+	<cv.h>
+	<highgui.h>
+	<cvaux.h>
+

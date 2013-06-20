@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1357733828 source:f:\codeblocks programming\calib\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"cv.h"
+	"highgui.h"
+
